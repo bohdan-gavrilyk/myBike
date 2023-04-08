@@ -7,7 +7,7 @@ Implemented landing page according to [Figma design](https://www.figma.com/file/
 - Tablet 640px
 - Mobile (> 320px)
 
-This is a landing page built using HTML, SCSS, and BEM methodology. It is a single page website with a responsive design that adapts to different screen sizes. The landing page includes a header with a navigation menu, a hero section with a call to action, a features section, a call to action section, and a footer.
+This is a landing page built using HTML, SCSS, and BEM methodology. It is a single page website with a responsive design that adapts to different screen sizes. The landing page includes a header with a navigation menu, a product section with a call to action, a features section, a call to action section, and a footer.
 
 Installation
 To install this project, simply clone the repository or download the ZIP file. Once downloaded, open the project in your code editor and you're ready to go.
